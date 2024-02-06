@@ -8,4 +8,5 @@ def fibo(n):
   return fibo(n-1) + fibo(n-2)
 
 
-fibo(10)
+a=fibo(10)
+print(a)
